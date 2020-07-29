@@ -1,5 +1,5 @@
    
-.. image:: ../frontend/src/assets/static/ApartachoLogo.png
+.. image:: ApartachoLogo.png
 
 The apartacho is best real estate online
 
